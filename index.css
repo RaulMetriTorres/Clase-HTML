@@ -1,0 +1,15 @@
+div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+}
+
+.forma {
+    padding: 10px;
+    background-color: aquamarine;
+    border: 1px solid #ccc;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
